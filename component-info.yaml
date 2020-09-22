@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: pet-store-java-client
+  description: Pet Store Java client
+spec:
+  type: service
+  lifecycle: experimental
+  owner: praveen.adusumilli
