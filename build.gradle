@@ -17,7 +17,7 @@ repositories {
 }
 
 dependencies {
-    compile 'io.swagger:swagger-annotations:1.5.18'
+    compile 'io.swagger:swagger-annotations:1.6.3'
     compile 'com.google.code.findbugs:jsr305:3.0.2'
     compile 'org.springframework.cloud:spring-cloud-starter-openfeign:2.0.1.RELEASE'
     compile 'org.springframework.cloud:spring-cloud-starter-oauth2:2.0.0.RELEASE'
